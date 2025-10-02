@@ -5,20 +5,20 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/MaDHouSe79/mh-walkstyle/issues">
-        <img src="https://img.shields.io/github/issues/MaDHouSe79/mh-walkstyle"/> 
+    <a href="https://github.com/MaDHouSe79/mh-weaponaim/issues">
+        <img src="https://img.shields.io/github/issues/MaDHouSe79/mh-weaponaim"/> 
     </a>
-    <a href="https://github.com/MaDHouSe79/mh-walkstyle/watchers">
-        <img src="https://img.shields.io/github/watchers/MaDHouSe79/mh-walkstyle"/> 
+    <a href="https://github.com/MaDHouSe79/mh-weaponaim/watchers">
+        <img src="https://img.shields.io/github/watchers/MaDHouSe79/mh-weaponaim"/> 
     </a> 
-    <a href="https://github.com/MaDHouSe79/mh-walkstyle/network/members">
-        <img src="https://img.shields.io/github/forks/MaDHouSe79/mh-walkstyle"/> 
+    <a href="https://github.com/MaDHouSe79/mh-weaponaim/network/members">
+        <img src="https://img.shields.io/github/forks/MaDHouSe79/mh-weaponaim"/> 
     </a>  
-    <a href="https://github.com/MaDHouSe79/mh-walkstyle/stargazers">
-        <img src="https://img.shields.io/github/stars/MaDHouSe79/mh-walkstyle?color=white"/> 
+    <a href="https://github.com/MaDHouSe79/mh-weaponaim/stargazers">
+        <img src="https://img.shields.io/github/stars/MaDHouSe79/mh-weaponaim?color=white"/> 
     </a>
-    <a href="https://github.com/MaDHouSe79/mh-walkstyle/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/MaDHouSe79/mh-walkstyle?color=black"/> 
+    <a href="https://github.com/MaDHouSe79/mh-weaponaim/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/MaDHouSe79/mh-weaponaim?color=black"/> 
     </a>      
 </p>
 
